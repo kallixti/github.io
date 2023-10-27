@@ -1,6 +1,6 @@
 ## 2023-10-27
 
-The productivity black hole. Otherwise known as the "I have this thing I really need to do but I honestly cannot bring myself to sit and do it, oh shit doesthismeanmyadderallhasfinallystoppedworkingandmyADHDfinallywon?" black hole.
+The productivity black hole. Otherwise known as the "I have this thing I really need to do but I honestly cannot bring myself to sit and do it, oh shit does this mean my adderall has finally stopped working and my ADHD finally won?" black hole.
 
 In an attempt to avoid the work that I need to do, I opted to learn how one can create a "blog" (style) site utilizing GitHub Pages. 
 
